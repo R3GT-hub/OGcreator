@@ -1,8 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    images:{
-        domains:['cdn-icons-png.flaticon.com']
+    images: {
+      domains: ['cdn-icons-png.flaticon.com']
     }
-};
-
-export default nextConfig;
+  };
+  
+  module.exports = nextConfig;
