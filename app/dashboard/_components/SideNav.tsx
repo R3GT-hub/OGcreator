@@ -34,7 +34,7 @@ function SideNav() {
     return (
         <div className='h-screen p-5 shadow-sm border bg-white'>
             <div className='flex justify-center '>
-                <Image src={'/logo.svg'} alt='OGcreator' width={50} height={50} />
+              <a href="/">  <Image src={'/logo.svg'} alt='OGcreator' width={50} height={50} /></a>
             </div>
             <hr className='my-[26px] border' />
             <div className='mt-3'>

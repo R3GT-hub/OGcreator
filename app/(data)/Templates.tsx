@@ -96,7 +96,7 @@ export default [
     },
     {
         name: 'English Grammar Check',
-        desc: 'Check your text for grammatical errors and improve language correctness.',
+        desc: 'Check your text for grammatical errors & improve  correctness.',
         category: 'writing',
         icon: 'https://cdn-icons-png.flaticon.com/128/3342/3342137.png',
         aiprompt: 'Check the following text for grammatical errors and improve language correctness.',
@@ -144,10 +144,10 @@ export default [
     },
     {
         name: 'Code Bug Detector',
-        desc: 'Find and suggest fixes for bugs in your code.',
+        desc: 'Find and suggest fixes for bugs in your code and helps you write code',
         category: 'coding',
         icon: 'https://cdn-icons-png.flaticon.com/128/2306/2306188.png',
-        aiprompt: 'Detect and suggest fixes for bugs in the following code snippet.',
+        aiprompt: 'Detect and suggest the  fixes for bugs in the following code snippet.',
         slug: 'code-bug-detector',
         form: [
             {
@@ -208,7 +208,7 @@ export default [
     },
     {
         name: 'Instagram Post Generator',
-        desc: 'Create engaging Instagram posts with captions and hashtags.',
+        desc: 'Create engaging Instagram posts with captions and hashtags to increase your reach.',
         category: 'social-media',
         icon: 'https://cdn-icons-png.flaticon.com/128/2111/2111463.png',
         aiprompt: 'Generate engaging Instagram posts with captions and hashtags based on the following topic or content idea.',
